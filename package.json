@@ -1,0 +1,8 @@
+{
+  "name": "voxlink-otp-api",
+  "version": "1.0.0",
+"dependencies": {
+  "twilio": "^5.0.0",
+  "@vercel/blob": "latest",
+  "busboy": "^1.6.0"
+}
